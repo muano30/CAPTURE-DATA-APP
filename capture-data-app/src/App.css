@@ -44,13 +44,23 @@ width: 15%
 }
 
 
-
 button{
   margin-top: 1rem;
-  width: 15%;
+  width: 25%;
   padding: .5rem
 }
 
 li{
   list-style: none;
+}
+
+.dropdown{
+  margin-left: 40%;
+}
+
+select{
+  width: 20%;
+  padding: 0.5rem;
+  position: absolute;
+  top: 2rem;
 }
